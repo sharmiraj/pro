@@ -14,5 +14,5 @@ else
 {
 cout<<"the number is odd";
 }
-getch()
+getch();
 }
